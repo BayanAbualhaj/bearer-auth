@@ -6,6 +6,7 @@
 #### Deployment
 
 * [heroku](https://ba-bearer-auth.herokuapp.com/)
+* [action](https://github.com/BayanAbualhaj/bearer-auth/actions)
 * No pull request I was working on the master branch [repo link](https://github.com/BayanAbualhaj/bearer-auth)
 
 #### Running the app
